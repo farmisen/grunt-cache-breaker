@@ -42,7 +42,7 @@
     "break"
   ],
   "dependencies": {
-    "cache-breaker": "0.0.4",
+    "cache-breaker": "https://github.com/farmisen/cache-breaker.git",
     "lodash.clonedeep": "^3.0.2"
   }
 }
